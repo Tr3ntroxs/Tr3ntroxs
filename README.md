@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Codewars](https://github.r2v.ch/codewars?user=Tr3ntroxs)
+[![Codewars](https://github.r2v.ch/codewars?user=Tr3ntroxs&top_languages=true)](https://www.codewars.com/users/Tr3ntroxs)
