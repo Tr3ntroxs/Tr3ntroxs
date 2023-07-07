@@ -1,4 +1,6 @@
-### Hi there 👋
+### Greetings! 👋
+
+### Currently working on Phoenix Bionics alongside some other exciting projects...
 
 <!--
 **Tr3ntroxs/Tr3ntroxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
